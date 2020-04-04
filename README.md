@@ -3,7 +3,9 @@
 ## Dashboards
 
 
-----------   [WHO worldwide ](https://www.who.int/redirect-pages/page/novel-coronavirus-(covid-19)-situation-dashboard)
+----------
+
+-   [WHO worldwide ](https://www.who.int/redirect-pages/page/novel-coronavirus-(covid-19)-situation-dashboard)
 -   [Deutschland ](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
 -   [Johns Hopkins Worldwide ](https://coronavirus.jhu.edu/map.html)
 -   [Coronavirus Charts ](https://mackuba.eu/corona/)
@@ -14,18 +16,29 @@
 -   [Tableau.com ](https://www.tableau.com/covid-19-coronavirus-data-resources)
 
 Lageinformationen
------------------   [Aktuelle Berichte des RKI ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html)
+-----------------
+
+-   [Aktuelle Berichte des RKI ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html)
 -   [Risikogebiete Deutschland und International ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete.html)
 -   [Allgemeine Hygienetipps und Vorschläge ](https://www.infektionsschutz.de/coronavirus-sars-cov-2.html)
 -   [Podcast von Dr. Christian Drosten, Virologe an der Charité ](https://www.ndr.de/nachrichten/info/podcast4684.html)
 -   [COVID-19 Fallzahlen in D ](https://covid-19.openmedical.de)
+-   
 -   [Reisewarnung des Auswärtigen Amtes bis Ende April ](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/covid-19/2296762)
 
 Checklisten
------------   [Checkliste für Apotheken ](https://www.apotheke-adhoc.de/fileadmin/user_upload/redaktion/service-downloads/Checkliste_Covid19.pdf)
+-----------
+
+-   [Checkliste für Apotheken ](https://www.apotheke-adhoc.de/fileadmin/user_upload/redaktion/service-downloads/Checkliste_Covid19.pdf)
 -   [Risikoeinschätzung für Veranstalter ](https://www.dresden.de/media/pdf/gesundheit/HYG/Corona_Risikoeinschaetzung_Veranstalter.pdf)
+-   
+
 Prophylaxe / Maßnahmen
-----------------------   [Händedesinfektionsmittel - Hausrezept der WHO ](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf?ua=1)
+----------------------
+
+
+
+-   [Händedesinfektionsmittel - Hausrezept der WHO ](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf?ua=1)
 -   [Offizielle Zulassung 2-Propanol-haltiger Biozidprodukte ](https://www.baua.de/DE/Angebote/Aktuelles/Meldungen/2020/pdf/Allgemeinverfuegung-2-Propanol.pdf?__blob=publicationFile&v=1)
 -   [Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1 ](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v2)
 -   [Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study ](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext)
@@ -58,7 +71,9 @@ Prophylaxe / Maßnahmen
 -   [Optionen zum Management von Kontaktpersonen unter Personal von Alten- und Pflegeeinrichtungen in Situationen mit Personalmangel vom RKI ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Personal_Pflege.html)
 
 Diagnostik
-----------   [Übersicht über RKI-Diagnostik-Flowcharts ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_Tab.html)
+----------
+
+-   [Übersicht über RKI-Diagnostik-Flowcharts ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_Tab.html)
 -   [RKI-Diagnostik-Flowchart als PDF zum Ausdrucken ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_DINA3.pdf?__blob=publicationFile)
 -   [RKI-Flowchart-App für Ärzte ](http://multimedia.gsb.bund.de/RKI/Flowcharts/covid19-arzt/)
 -   [Symptoms near the time of presentation in various cohorts, via emcrit ](https://i1.wp.com/emcrit.org/wp-content/uploads/2020/03/sxjpg.jpg)
@@ -69,31 +84,41 @@ Diagnostik
 -   [Um die Testkapazität der PCR-Testung weiter zu erhöhen, wird u.a. eine gepoolte Testung, analog des Blutspendewesens diskutiert ](https://www.aerzteblatt.de/nachrichten/111552/Proben-Pooling-Neues-Verfahren-soll-schnellere-SARS-CoV-2-Testung-ermoeglichen)
 
 Therapie
--------**Gute Informationssammlung für medizinisches Personal: [Coronavirus Tech Handbook by doctors ](https://coronavirustechhandbook.com/doctors)**
+--------
 
+**Gute Informationssammlung für medizinisches Personal: [Coronavirus Tech Handbook by doctors ](https://coronavirustechhandbook.com/doctors)**
+
+-   
 -   [Atemwegsmanagement bei COVID-19 (pin-up-docs) ](https://pin-up-docs.de/2020/03/08/atemwegsmanagement-bei-covid-19/)
 -   [Empfehlungen zur intensivmedizinischen Therapie von Patienten mit COVID-19 (Springer 12.03.2020, Kluge et al) ](https://link.springer.com/content/pdf/10.1007/s00063-020-00674-3.pdf)
+-   
 -   [COVID-19 in the Internet Book of Critical Care ](https://emcrit.org/ibcc/covid19/)
 -   [Airway-Managment-Anleitung der ESA für Covid-19 (European Society of Anaesthesiology) ](http://www.siaarti.it/SiteAssets/News/COVID19%20-%20documenti%20SIAARTI/SIAARTI%20-%20Covid-19%20-%20Airway%20Management%20rev.1.1.pdf)
 -   [AMBOSS-Informationsübersicht zu COVID-19 ](https://www.amboss.com/de/wissen/covid-19)
+-   
+-   
 -   [ITS-Diagnostik und -Therapie gut zusammengefasst ](https://www.aerzteblatt.de/archiv/213160)
 -   [Surviving Sepsis Campaign hat (noch uneditierte) Guidelines für die Intensivtherapie von erwachsenen Covid-19-Patienten ](https://www.esicm.org/wp-content/uploads/2020/03/SSC-COVID19-GUIDELINES.pdf)
 -   [Handlungsempfehlung zur Therapie von Patient\*innenmit COVID-19 aus palliativmedizinischer Perspektive ](https://www.awmf.org/uploads/tx_szleitlinien/128-001l_S1_palliative_Therapie_bei_COVID-19_2020-03.pdf)
 -   [SOP zur Therapie COVID-19-Patient\*innen ](https://bulletin.cert.ccc.de/papers/2020-03-23_BLL_Therapie_von_COVID-19-Patienten.pdf)
 -   [SOP zur Intubation/Bronchoskopie von COVID-19-Patient\*innen ](https://bulletin.cert.ccc.de/papers/2020-03-23_BLL_Vorgehen_bei_ITN_unter_COVID-19.pdf)
 -   [Empfehlung der Schweizer Fachgesellschaft für Intensivmedizin zu klinischen Aufnahmekriterien von COVID-19-Fällen auf Intensiv- und Überwachungsstationen herausgegeben ](https://smw.ch/article/doi/smw.2020.20227)
+-   
 -   [Überlegung zur Grundlage und Organisation einer triagierten Verteilung von Beatmungsgeräten ](https://ccm.pitt.edu/sites/default/files/UnivPittsburgh_ModelHospitalResourcePolicy.pdf)
 -   [Eine Hemmung durch anti-C5a-monoklonale Antikörper könnten einen sinnvollen Therapieansatz darstellen ](https://www.medrxiv.org/content/10.1101/2020.03.29.20041962v1?rss=1%22)
 -   [Webinar Airwaymanagement bei der Versorgung von CoViD-19-Patienten ](https://www.inpass.de/webinarevideos/webinare-themen/webinar-airway-management/)
 -   [EMCrit: Übersicht zu intensivmedizinischen Maßnahmen, für medizinische Fachpersonen ohne intensivmedizinischen Hintergrund ](https://emcrit.org/emcrit/critical-care-for-non-intensivists/)
 
 Testtherapien / Forschung
--------------------------   [Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro (Nature) ](https://www.nature.com/articles/s41422-020-0282-0)
+-------------------------
+
+-   [Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro (Nature) ](https://www.nature.com/articles/s41422-020-0282-0)
 -   [SARS-CoV-2 Cell Entry Depends on ACE2 andTMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor ](https://www.cell.com/cell/pdf/S0092-8674(20)30229-4.pdf)
 -   [New coronavirus protein reveals drug target ](https://news.northwestern.edu/stories/2020/03/new-coronavirus-protein-reveals-drug-target/)
 -   [Clinical Presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster ](https://www.medrxiv.org/content/10.1101/2020.03.05.20030502v1)
 -   [Über 900 Veröffentlichungen zu Covid-19 ](https://www.ncbi.nlm.nih.gov/m/pubmed/?term=covid+19)
 -   [favipiravir/Avigan angeblich effektiv ](https://www.theguardian.com/world/2020/mar/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-says-china)
+-   
 -   [Chinesen leiden unter Angst- und Schlafstörungen während der Quarantäne ](https://www.aerzteblatt.de/nachrichten/111205/COVID-19-Chinesen-leiden-unter-Angst-und-Schlafstoerungen-waehrend-der-Quarantaene)
 -   [Stellungnahme zur Covid-19-Pandemie des EbM-Netzwerks ](https://www.ebm-netzwerk.de/de/medien/pdf/stn-20200320-covid-19-ebmnetzwerk.pdf?fbclid=IwAR2__I9272jXqBfNXDdFUkOQ6rXnWFov674i9tK42kQ5M7L6KIMtb2taPUg)
 -   [WHO testet in globaler Studie 4 Therapeutika auf Wirkung bei COVID-19 ](https://www.aerzteblatt.de/nachrichten/111267/WHO-testet-in-globaler-Studie-4-Therapeutika-auf-Wirkung-bei-COVID-19)
@@ -104,7 +129,9 @@ Testtherapien / Forschung
 -   [Die transmembrane Serinprotease 2 (TMPRSS2) stellt womöglich eine wesentlich wichtigere Rolle als ACE2 bei der Infektion mit SARS-CoV-2 dar ](https://www.medrxiv.org/content/10.1101/2020.03.30.20047878v1?rss=1%22)
 
 Risikofaktoren
---------------   [Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study ](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext)
+--------------
+
+-   [Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study ](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext)
 -   [Are patients with hypertension and diabetes mellitus at increased risk for COVID-19 infection? ](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30116-8/fulltext)
 -   [Rosiglitazone, a Ligand to PPAR, Improves Blood Pressure and Vascular Function through Renin-Angiotensin System Regulation ](https://www.hindawi.com/journals/ppar/2019/1371758/)
 -   [Risikofaktor Rauchen ](https://tobacco.ucsf.edu/reduce-your-risk-serious-lung-disease-caused-corona-virus-quitting-smoking-and-vaping)
@@ -114,7 +141,9 @@ Risikofaktoren
 -   [Meta-Analyse zu den Risikofaktoren für einen schweren oder kritischen Verlauf ](https://www.medrxiv.org/content/10.1101/2020.03.30.20047415v1?rss=1%22)
 
 Erlasse
-------### Ausgangsbeschränkungen
+-------
+
+### Ausgangsbeschränkungen
 
 
 
@@ -348,7 +377,9 @@ Erlasse
 
 
 Pandemiepläne
--------------   Übersicht der Pandemiepläne des RKI: [](https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplaene_Bundeslaender.html)
+-------------
+
+-   Übersicht der Pandemiepläne des RKI: [](https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplaene_Bundeslaender.html)
 -   Hinweis: Die vom RKI verlinkten Pandemiepläne sind teilweise veraltet. Wenn unten Links zu den länderspezifischen Plänen vorhanden sind, sind diese aktueller.
 
 <!-- -->
@@ -369,12 +400,15 @@ Pandemiepläne
 -   Nordrhein-Westfalen: Noch keine Anpassung an SARS-CoV-2
 -   [Rheinland-Pfalz ](https://msagd.rlp.de/fileadmin/msagd/Gesundheit_und_Pflege/GP_Dokumente/Informationen_zum_Coronavirus/2020_Pandemieplan_RLP.pdf)
 -   Saarland: Noch keine Anpassung an SARS-CoV-2
+-   
 -   [Sachsen-Anhalt ](https://ms.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MS/MS/2_Gesundheit/Pandemieplan_Sachsen-Anhalt_2020.pdf)
 -   Schleswig-Holstein: Noch keine Anpassung an SARS-CoV-2
 -   Thüringen: Noch keine Anpassung an SARS-CoV-2
 
 Veranstaltungslimitierungen
---------------------------<table>
+---------------------------
+
+<table>
 <thead>
 <tr class="header">
 <th><p>Bundesland</p></th>
@@ -469,7 +503,4 @@ bis 16.03.2020: &gt;1000 Personen: Untersagung der Veranstaltung, einige Städte
 </tr>
 </tbody>
 </table>
-
-Sonstiges
---------### Hacks
 

@@ -69,6 +69,8 @@ Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 |-------|------------|-----------|------------|--------|
 |       |            |           |            |        |
 
+-   
+
 #### Rheinland-Pfalz
 
 | Stadt | Verordnung | Gültig ab | Gültig bis | Status |

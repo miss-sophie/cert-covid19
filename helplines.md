@@ -3,7 +3,9 @@
 Hier werden Hotlines gesammelt, bei denen man sich über Maßnahmen etc. informieren kann.
 
 Bundesweit
-----------   Ärztlicher Bereitschaftsdienst: 116 117 (TIP: aus dem Handynetz kommt man in einem völlig überlastetes Callcenter raus -&gt; Festnetz benutzen)
+----------
+
+-   Ärztlicher Bereitschaftsdienst: 116 117 (TIP: aus dem Handynetz kommt man in einem völlig überlastetes Callcenter raus -&gt; Festnetz benutzen)
 -   Unabhängige Patientenberatung: 0800 - 011 77 22
 -   Bundesgesundheitsministerium: 030 - 346 465 100
 -   Hotline der BARMER Krankenkasse: 0800 - 84 84 111
@@ -11,7 +13,9 @@ Bundesweit
     -   \\[
 
 Länderspezifisch
----------------#### Baden-Württemberg
+----------------
+
+#### Baden-Württemberg
 
 | **Ort**         | **Stelle**           | **Telefonnummer**                     | **Öffnungszeiten**                                                  | **Anmerkungen**                         | **URL**                                                                                                      |
 |-----------------|----------------------|---------------------------------------|---------------------------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------|

@@ -5,37 +5,74 @@ Auf dieser Unterseite werden Erlasse und Verfügungen einzelner Grossstädte ges
 Damit die Seite nicht zu voll wird: Grossstädte sind Städte mit über 100000 Einwohnern.
 
 Baden-Württemberg
-----------------Mannheim [<https://www.mannheim.de/sites/default/files/2020-03/20_03_23_Allgemeinverf%C3%BCgung%20Betretungsverbot_Korrektur.pdf> ](https://www.mannheim.de/sites/default/files/2020-03/20_03_23_Allgemeinverf%C3%BCgung%20Betretungsverbot_Korrektur.pdf)  
+-----------------
+
+Mannheim [<https://www.mannheim.de/sites/default/files/2020-03/20_03_23_Allgemeinverf%C3%BCgung%20Betretungsverbot_Korrektur.pdf> ](https://www.mannheim.de/sites/default/files/2020-03/20_03_23_Allgemeinverf%C3%BCgung%20Betretungsverbot_Korrektur.pdf)  
 
 Bayern
------Berlin
------Siehe 
+------
+
+Berlin
+------
+
+Siehe 
 
 Brandenburg
-----------Bremen
------Hamburg
-------Siehe: 
+-----------
+
+Bremen
+------
+
+Hamburg
+-------
+
+Siehe: 
 
 Hessen
------Mecklenburg-Vorpommern
----------------------Niedersachsen
-------------**Braunschweig** siehe 
+------
+
+Mecklenburg-Vorpommern
+----------------------
+
+Niedersachsen
+-------------
+
+**Braunschweig** siehe 
 
 Nordrhein-Westfalen
-------------------**Essen**
+-------------------
+
+**Essen**
+
+-   
 
 **Dortmund**
+
+-   
 
 **Münster**
 
 -   Gem. §§ 16 Abs. 1 Satz 1, 28 Abs. 1 Satz 2 des Gesetzes zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (Infektionsschutzgesetz-IfSG) ergeht zur Verhütung der Weiterverbreitung von SARS-CoV-2 Virus-Infektionen folgende 
 
 Rheinland-Pfalz
---------------Saarland
--------Sachsen
-------Sachsen-Anhalt
--------------Schleswig-Holstein
------------------**Kiel**
+---------------
+
+Saarland
+--------
+
+Sachsen
+-------
+
+Sachsen-Anhalt
+--------------
+
+Schleswig-Holstein
+------------------
+
+**Kiel**
+
+-   
+-   
 
 Thüringen
---------
+---------
