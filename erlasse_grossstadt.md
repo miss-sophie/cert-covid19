@@ -7,7 +7,7 @@ Damit die Seite nicht zu voll wird: Grossstädte sind Städte mit über 100000 E
 Baden-Württemberg
 -----------------
 
-Mannheim [<https://www.mannheim.de/sites/default/files/2020-03/20_03_23_Allgemeinverf%C3%BCgung%20Betretungsverbot_Korrektur.pdf> ](https://www.mannheim.de/sites/default/files/2020-03/20_03_23_Allgemeinverf%C3%BCgung%20Betretungsverbot_Korrektur.pdf)
+Mannheim [<https://www.mannheim.de/sites/default/files/2020-03/20_03_23_Allgemeinverf%C3%BCgung%20Betretungsverbot_Korrektur.pdf> ](https://www.mannheim.de/sites/default/files/2020-03/20_03_23_Allgemeinverf%C3%BCgung%20Betretungsverbot_Korrektur.pdf)  
 
 Bayern
 ------

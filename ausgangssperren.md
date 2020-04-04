@@ -8,102 +8,102 @@ Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 
 #### Baden-Württemberg
 
-  Stadt      Verordnung                                                                                                                                                                                            Gültig ab    Gültig bis   Status
-  ---------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------ ------------ --------
-  Freiburg      21.03.2020   03.04.2020   Gültig
-                                                                                                                                                                                                                                             
+| Stadt    | Verordnung                                                                                                                                                                                          | Gültig ab  | Gültig bis | Status |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------|
+| Freiburg |  | 21.03.2020 | 03.04.2020 | Gültig |
+|          |                                                                                                                                                                                                     |            |            |        |
 
 #### Bayern
 
-  Stadt                                                  Verordnung                                                                                                                      Gültig ab    Gültig bis   Status
-  ------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------- ------------ ------------ --------
-  Bayern                                                    21.03.2020   03.04.2020   Gültig
-  Mitterteich                                                                         18.03.2020   02.04.2020   Gültig
-  Hohenberg & Ortsteil Fischern des Marktes Schirnding                          19.03.2020   03.04.2020   Gültig
+| Stadt                                                | Verordnung                                                                                                                    | Gültig ab  | Gültig bis | Status |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------|
+| Bayern                                               |  | 21.03.2020 | 03.04.2020 | Gültig |
+| Mitterteich                                          |                            | 18.03.2020 | 02.04.2020 | Gültig |
+| Hohenberg & Ortsteil Fischern des Marktes Schirnding |                      | 19.03.2020 | 03.04.2020 | Gültig |
 
 #### Berlin
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 #### Brandenburg
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 #### Bremen
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 #### Hamburg
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 #### Hessen
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 #### Mecklenburg-Vorpommern
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 #### Niedersachsen
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 #### Nordrhein-Westfalen
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 -   
 
 #### Rheinland-Pfalz
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 #### Saarland
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 #### Sachsen
 
-  Stadt     Verordnung                                                                                              Gültig ab    Gültig bis   Status
-  --------- ------------------------------------------------------------------------------------------------------- ------------ ------------ --------
-  Dresden      21.03.2020   05.03.2020   Gültig
-                                                                                                                                              
+| Stadt   | Verordnung                                                                                            | Gültig ab  | Gültig bis | Status |
+|---------|-------------------------------------------------------------------------------------------------------|------------|------------|--------|
+| Dresden |  | 21.03.2020 | 05.03.2020 | Gültig |
+|         |                                                                                                       |            |            |        |
 
 #### Sachsen-Anhalt
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 #### Schleswig-Holstein
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
 
 #### Thüringen
 
-  Stadt   Verordnung   Gültig ab   Gültig bis   Status
-  ------- ------------ ----------- ------------ --------
-                                                
+| Stadt | Verordnung | Gültig ab | Gültig bis | Status |
+|-------|------------|-----------|------------|--------|
+|       |            |           |            |        |
